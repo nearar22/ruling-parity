@@ -1,0 +1,16 @@
+{
+  "network": "GenLayer Studio Next",
+  "chainId": 61997,
+  "contractAddress": "0x8a6d6c6d700610FF917cc595F9e836544Bc3BBa6",
+  "deploymentTransaction": "0xa576d26907bdeb535feead5193ae4e24e2f1718666372d2f46adc5466b4cd03e",
+  "sourceSha256": "4175c54a2a54b639abb8d531a351658090ff43775f6ee1697758da5dff32b2a1",
+  "sourceMatch": true,
+  "smokeReview": "parity-demo-mv4a9402",
+  "smokeVerdict": "PRECEDENT_FORK",
+  "smokeSimilarity": "MATERIALLY_SIMILAR",
+  "smokeTransactions": {
+    "create": "0xcd3736cfd41d9f4ef580d411cae8aaca8d62b0f839624801f28e1554dd779a3f",
+    "evaluate": "0x1d89067cb57c1417433ef1f013b528201fa7b5334c1ae58644ee1b3f1ef58d32",
+    "finalize": "0x27a4490ff1e81eb69bce2fbd0c6b90bd9b0de36636b769ffaadb861e00a7a0a0"
+  }
+}
